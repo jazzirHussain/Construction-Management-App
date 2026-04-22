@@ -1,0 +1,6 @@
+node_modules
+load-test.yml
+.env.development
+.env.production
+data
+package-lock.json
