@@ -1,4 +1,4 @@
-# 🏢 Rio Livings Dashboard
+# 🏢 Construction Management App
 
 > A comprehensive real estate management dashboard built with Node.js, Express, and MongoDB for managing properties, projects, payments, and user activities.
 
